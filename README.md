@@ -1,6 +1,6 @@
 # ENGR 1701 – Program a Robot with MATLAB
 
-A tiny turtle robot simulator for **MATLAB R2025a **or above. In **Week 1** you drive the robot with commands and draw shapes. In **Week 2** the robot uses **sensors** to escape tunnels and mazes.
+A tiny turtle robot simulator for **MATLAB R2025a** or above. In **Week 1** you drive the robot with commands and draw shapes. In **Week 2** the robot uses **sensors** to escape tunnels and mazes.
 
 No programming experience is needed. Every step is explained inside the files, and MATLAB checks your work and gives you a **mission code** each time you finish a task.
 
